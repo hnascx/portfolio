@@ -4,7 +4,7 @@
     "name": "my_portfolio"
   },
   "api": {
-    "projectId": "yf9n5qe7",
+    "projectId": "YOUR_ID_HERE",
     "dataset": "production"
   },
   "plugins": [
